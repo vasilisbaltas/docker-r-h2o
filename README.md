@@ -1,5 +1,9 @@
 # docker-r-h2o
 
+## News
+
+Update to R version 3.6.2
+
 ## Description
 
 Image template to run any R program/script in the container
